@@ -5,7 +5,7 @@
 * Your task is to do program to understand the movement of a car from a target video. Download the video and make working video of yours. You can do it using your own algorithms.
 
 > * Target video URL: 
-> [https://drive.google.com/file/d/1RMq9j_-mxkqPX_C4OYdoJmdfnp15ef0S/view?usp=drivesdk](https://drive.google.com/file/d/1RMq9j_-mxkqPX_C4OYdoJmdfnp15ef0S/view?usp=drivesdk)
+> > [https://drive.google.com/file/d/1RMq9j_-mxkqPX_C4OYdoJmdfnp15ef0S/view?usp=drivesdk](https://drive.google.com/file/d/1RMq9j_-mxkqPX_C4OYdoJmdfnp15ef0S/view?usp=drivesdk)
 
 * Example of your program output can be seen in video **Lane_Lines_Detection.mp4.**
 
@@ -28,3 +28,7 @@
 7. Predict the turn
 > * Print out the text on which side the car is moving in the video from obtained lines and performed regressions.
 > * You will have to predict the turn and calculate the frame per second (FPS) rate of your video. Video size should be chosen as: 1024x768, 800x600, 640x480, 400x300 and FPS should be compared.
+
+### Deadline 
+
+Source Code will have been pushed by 2020/05/15, 11:59 PM (GMT+5)
