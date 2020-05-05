@@ -1,5 +1,20 @@
 # IUT-Capstone-Design-Comprehensive-Assignment-For-Final-Exam-Replacement
 
+
+## Team
+
+* #### Leader: ####
+
+  * Bokhodir Urinboev
+
+* #### Memebers: ####
+
+  * Dilorom Aliev
+  
+  * Feruza Latipova
+
+  * Rakhmatjon Khasanov
+
 ## Tasks
 
 * Your task is to do program to understand the movement of a car from a target video. Download the video and make working video of yours. You can do it using your own algorithms.
