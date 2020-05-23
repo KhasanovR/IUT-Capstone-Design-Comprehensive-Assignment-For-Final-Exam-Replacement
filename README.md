@@ -44,5 +44,7 @@
 > * Print out the text on which side the car is moving in the video from obtained lines and performed regressions.
 > * You will have to predict the turn and calculate the frame per second (FPS) rate of your video. Video size should be chosen as: 1024x768, 800x600, 640x480, 400x300 and FPS should be compared.
 
-### Results 
+## Results 
+### We provided a link for YouTube playlist below.
+### You can watch results for different fps.
 > [![Awesome CV - Simple Lane Lines Detection](https://img.youtube.com/vi/7nxXQ-ayJac/0.jpg)](https://www.youtube.com/watch?v=7nxXQ-ayJac&list=PLZrsE2_darjJYr_MUIkQHNBj2Y1frJgpc&index=2&t=0s)
